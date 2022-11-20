@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/pokeName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:id="@+id/pokeImg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+        android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Altura"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/pokeHeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Peso"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/pokeWeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tipos do pokemon:"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/pokeTypes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+</LinearLayout>
