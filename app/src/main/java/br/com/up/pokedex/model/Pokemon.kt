@@ -1,7 +1,5 @@
 package br.com.up.pokedex.model
 
-import com.google.gson.annotations.SerializedName
-
 data class Pokemon(
     val url : String,
     val id: Int,
@@ -9,12 +7,28 @@ data class Pokemon(
     val height: Float,
     val weight: Float,
     val types: List<Type>,
+    val stats: List<Stat>,
+    val abilities: List<Ability>,
+    val moves: List<Move>
+)
+
+data class Name(
+    val name: String
 )
 
 data class Type(
     val type: Name
 )
 
-data class Name(
-    val name: String
+data class Stat(
+    val stat: Name,
+    val base_stat: Float
+)
+
+data class Ability(
+    val ability: Name
+)
+
+data class Move(
+    val move: Name
 )

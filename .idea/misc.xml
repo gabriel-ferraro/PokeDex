@@ -10,8 +10,10 @@
         <entry key="..\:/Users/autologon/Downloads/ads_pokedex_wed-master/ads_pokedex_wed-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/autologon/Downloads/ads_pokedex_wed-master/ads_pokedex_wed-master/app/src/main/res/layout/activity_pokemon_details.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/autologon/Downloads/ads_pokedex_wed-master/ads_pokedex_wed-master/app/src/main/res/layout/poke_item_view.xml" value="0.20520833333333333" />
-        <entry key="..\:/pokeApi/app/src/main/res/layout/activity_pokemon_details.xml" value="0.2" />
+        <entry key="..\:/pokeApi/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/pokeApi/app/src/main/res/layout/activity_pokemon_details.xml" value="0.25" />
         <entry key="..\:/pokeApi/app/src/main/res/layout/poke_item_view.xml" value="0.2" />
+        <entry key="..\:/pokeApi/app/src/main/res/layout/poke_move_view.xml" value="0.19895833333333332" />
       </map>
     </option>
   </component>
