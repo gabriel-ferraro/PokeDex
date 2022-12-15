@@ -16,18 +16,12 @@ Consumindo a API RESTful <a href="https://pokeapi.co/">PokéApi</a> para adquiri
 
 ## Navegando pelo App
 
-<center>
-![plot](./mainActivityScreenshot.jpeg)
-</center>
+<img align="center" src="./mainActivityScreenshot.jpeg"/>
 
 ## Pesquisando por um pokemon
 
-<center>
-![plot](./mainActivitySearchingScreenshot.jpeg)
-</center>
+<img align="center" src="./mainActivitySearchingScreenshot.jpeg"/>
 
 ## Mostrando dados do pokemon
 
-<center>
-![plot](./PokemonDetailsActivityScreenshot.jpeg)
-</center>
+<img align="center" src="./PokemonDetailsActivityScreenshot.jpeg"/>
