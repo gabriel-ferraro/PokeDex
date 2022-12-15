@@ -14,14 +14,20 @@ Consumindo a API RESTful <a href="https://pokeapi.co/">PokéApi</a> para adquiri
 - Utilizando componentes de layout do android como RecyclerViews, LinearLayout, ConstraintLayout e NestedScrollView
 - Estrutura de projeto MVC
 
-### Navegando pelo App
+## Navegando pelo App
 
+<center>
 ![plot](./mainActivityScreenshot.jpeg)
+</center>
 
-### Pesquisando por um pokemon
+## Pesquisando por um pokemon
 
+<center>
 ![plot](./mainActivitySearchingScreenshot.jpeg)
+</center>
 
-### Mostrando dados do pokemon
+## Mostrando dados do pokemon
 
+<center>
 ![plot](./PokemonDetailsActivityScreenshot.jpeg)
+</center>
